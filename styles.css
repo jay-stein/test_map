@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: rgba(0, 128, 0, 0.3); /* Green background with 30% opacity */
+    background: #ff0000; /* Green background with 30% opacity */
     text-align: center;
 
 }
